@@ -66,7 +66,7 @@ const suspectsArray = [
     image: 'https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/07/04/08/unspecified-3.jpg',
     color: 'yellow'
 },
-  
+];
   // Weapons
   const weaponsArray = [
     { name: 'rope', weight: 10 },
